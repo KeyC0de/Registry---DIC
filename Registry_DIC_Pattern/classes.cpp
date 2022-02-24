@@ -1,3 +1,4 @@
+#include <iostream>
 #include "classes.h"
 #include "assertions.h"
 #include "registry.h"
